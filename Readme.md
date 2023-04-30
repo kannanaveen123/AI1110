@@ -1,0 +1,3 @@
+This is assignment 1 for course AI1110 
+Name:ESLAVATH NAVEEN NAIK
+ROLL NO: CS22BTECH11021
